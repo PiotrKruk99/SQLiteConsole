@@ -1,2 +1,2 @@
 # SQLiteConsole
-Probably the smallest and the simplest graphical SQLite console.
+First version of SQLite graphical console.
